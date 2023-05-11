@@ -8,7 +8,7 @@ public class MoviesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MoviesApplication.class, args);
-		System.out.println("hello, my gf is rin");
+		System.out.println("hello, my gf is rin,prprpr everyday");
 	}
 
 }
